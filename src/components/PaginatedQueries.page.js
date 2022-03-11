@@ -16,7 +16,7 @@ export const PaginatedQueriesPage = () => {
   );
 
   if (isLoading) {
-    return <h2>Loadingg...</h2>;
+    return <h2>Loading...</h2>;
   }
 
   if (isError) {
