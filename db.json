@@ -1,0 +1,57 @@
+{
+  "superheroes": [
+    { "id": 1, "name": "Super Man", "alterEgo": "Bruce Wayne" },
+    { "id": 2, "name": "Bat Man", "alterEgo": "Johny Sins" },
+    { "id": 3, "name": "Spider Man", "alterEgo": "Vinn Diesel" },
+    { "id": 4, "name": "Thor", "alterEgo": "Jordi El ninu pota" }
+  ],
+
+  "friends": [
+    { "id": 1, "name": "Saran", "alterEgo": "Ahmed Mughal" },
+    { "id": 2, "name": "Zain", "alterEgo": "Zahid" },
+    { "id": 3, "name": "Zeeshan", "alterEgo": "Zahoor" },
+    { "id": 4, "name": "Ahsan", "alterEgo": "Ghalib" }
+  ],
+  "users": [
+    { "id": "zshn@example.com", "channelId": "letsCode" },
+    { "id": "zshn1@example.com", "channelId": "letsCode1" }
+  ],
+  "channels": [
+    { "id": "letsCode", "courses": ["react", "vue", "node"] },
+    { "id": "letsCode1", "courses": ["react1", "vue1", "node1"] }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
